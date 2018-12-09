@@ -1,0 +1,73 @@
+# Atividade De Perspectiva e Analise De Erros Em Códigos
+	Código Correto:
+.........................................................................................................................................................
+
+       Console.ForegroundColor = ConsoleColor.Red;
+       Console.WriteLine(" Hello World!!");
+       Console.ReadLine();
+       
+................................................................
+	NIVEL (1), Analise Primordial Mono Erros:
+1º Ache O Erro No Código Abaixo:
+
+       Console.ForegroundColor = ConsoleColor.Red;
+       Console.writeLine(" Hello World!!");
+       Console.ReadLine();
+       
+2º Ache O Erro No Código Abaixo:
+
+       Console.ForegroundColor = ConsoleColor.Red;
+       Console.WriteLine( Hello World!!);
+       Console.ReadLine();
+       
+3º Ache O Erro No Código Abaixo:
+
+       Console.ForegroundColor = ConsoleColor.Red
+       Console.WriteLine(" Hello World!!")
+       Console.ReadLine()
+       
+4º Ache O Erro No Código Abaixo:
+
+       Console.ForegroundColor = ConsoleColor.Red;
+       Console.WriteLine(" Hello World!!");
+       Console,ReadLine();
+       
+5º Ache O Erro No Código Abaixo:
+
+       Console.ForegroundColor = ConsoleColor.Red;
+       Console.WriteLine(" Hello World!!");
+       Console.ReadLine(;
+
+	NIVEL (2), Analise Mais Aprofundada Com Múltiplos Erros:
+
+1º Ache O Erro No Código Abaixo:
+
+       Console.foregroundColor = consoleColor,Red
+       console..Writeline(" Hello World!!");
+       Console.readLIne(;
+   
+2º Ache O Erro No Código Abaixo
+
+       Console..ForegroundColor = ConsoleColor.Red;
+       console.writeline( Hello World!!");
+       Console.ReadLine();
+       
+3º Ache O Erro No Código Abaixo:
+
+       Console.foregroundColor = ConsoleColor,Red
+       Console.writeline( Hello World!!
+       Console,ReadLine((;
+       
+4º Ache O Erro No Código Abaixo:
+
+       Console.Foregroundcolor = consoleColor.Red;
+       Cosole.WriteLine(" Hello World!!")
+       Consle:realine(();
+       
+ 5º Ache O Erro No Código Abaixo:
+ 
+       ConsoleForegroundcolor = consoleColor.Red:
+       CosoleWriteLine( Hello World!!")’
+       Consle:realine (();
+
+
